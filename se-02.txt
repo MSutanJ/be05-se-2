@@ -1,0 +1,15 @@
+nama : Muhammad Sutan Juansyah
+url profile github :
+algoritma : makan telur rebus,
+            telurnya ada di dapur dan masih mentah,
+            saya ada di kamar.
+1. Mulai
+2. Keluar dari kamar.
+3. Menuju dapur.
+4. Ambil telur dan bersihkan
+5. Siapkan panci dan masukkan air secukupnya
+6. letakkan panci yang telah di isi air di atas kompor, lalu hidupkan api nya.
+7. tunggu sekitar 5 menit.
+8. Ambil telur dari panci, dinginkan terlebih dahulu.
+9. Kupas kulit telur atau cangkang telur.
+10. Telur siap dimakan.
